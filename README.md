@@ -1,5 +1,4 @@
 # Disemvowel Trolls 
-Task#1
 
 Trolls are attacking your comment section!
 
